@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nickname": "amy",
+    "email": "amy@amy-health.io"
+  },
+  {
+    "id": 2,
+    "nickname": "David",
+    "email": "david@amy-health.io"
+  },
+  {
+    "id": 3,
+    "nickname": "Andreas",
+    "email": "andreas@amy-health.io"
+  },
+  {
+    "id": 4,
+    "nickname": "Rebecca",
+    "email": "rebecca@amy-health.io"
+  },
+  {
+    "id": 5,
+    "nickname": "Sara",
+    "email": "sara@amy-health.io"
+  },
+  {
+    "id": 6,
+    "nickname": "Mara",
+    "email": "mara@amy-health.io"
+  }
+]
